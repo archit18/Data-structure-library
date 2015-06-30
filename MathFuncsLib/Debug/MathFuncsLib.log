@@ -1,0 +1,13 @@
+﻿Build started 30-06-2015 10:20:47.
+     1>Project "c:\Users\archit\documents\visual studio 2013\Projects\StaticLibrary\MathFuncsLib\MathFuncsLib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\videos\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Lib:
+         F:\videos\VS2013\VC\bin\Lib.exe /OUT:"c:\users\archit\documents\visual studio 2013\Projects\StaticLibrary\Debug\MathFuncsLib.lib" /NOLOGO Debug\Source.obj
+         MathFuncsLib.vcxproj -> c:\users\archit\documents\visual studio 2013\Projects\StaticLibrary\Debug\MathFuncsLib.lib
+     1>Done Building Project "c:\Users\archit\documents\visual studio 2013\Projects\StaticLibrary\MathFuncsLib\MathFuncsLib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
